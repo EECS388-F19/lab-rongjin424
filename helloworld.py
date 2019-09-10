@@ -6,5 +6,5 @@ if __name__ == '__main__':
     print("Rong Jin", r_num1, r_num2, 
           f"Sum = {r_num1+r_num2}", 
           f"Average = {(r_num1+r_num2)/2}", 
-          sep='\n')
+          sep='\n') 
     
